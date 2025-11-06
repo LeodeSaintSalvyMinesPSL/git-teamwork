@@ -1,6 +1,6 @@
 # the teamwork TP
 
-01 Nom:
+01 Nom: Léo DE BOURDONCLE DE SAINT SALVY
 01 github:
 02 Nom:
 02 github:
